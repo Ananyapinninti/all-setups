@@ -1,3 +1,9 @@
+ANSIBLE-------
+yum install ansible -y 
+yum install python-pip -y
+pip install boto3
+
+
 SETUP:
 Create 5 servers (1=ansible 2=dev 2=test)
 Connect all servers to mobaxterm
